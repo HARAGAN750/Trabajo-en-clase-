@@ -1,0 +1,54 @@
+.titulo {
+    color: white;
+    background-color:#5b3c54;
+    border: 50px solid #5b3c54;
+    text-align: center;  
+    
+}
+
+.parrafo {
+    width: 90%;
+        
+        padding: 10px;
+        font-size:smaller;
+        text-align: center;
+        background-color: #038C8A;
+        margin-bottom: 50px;
+        border-radius: 10px;
+        
+}
+* {
+    background-color: #033442;
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    width: 49%;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.titulo1 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.titulo2 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.titulo3 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.titulo4 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
